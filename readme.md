@@ -5,7 +5,9 @@
 **Goal of this course is to made a 8-Bit programmable CPU from NAND.**
 
 
-##### Course
+![](8bitCPU.png)
+
+##### Courses
 + Chapter 1 - ALU
   + Number System
   + Semi-conduct
@@ -16,6 +18,12 @@
   + 3-8 Decoder
   + Arithmetic Logical Unit (ALU) Design
 + Chapter 2 - Memory
+  + 1bit memory
+  + latches: SR, D
+  + Flip Flop
+  + Register
+  + RAM/ROM
+  + Program Counter
 
 ##### Labs
 
