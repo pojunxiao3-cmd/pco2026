@@ -311,4 +311,4 @@ SUM(减法结果─► I1          │    (加减法时SUM/I0/I1,
 3. AND 和 XOR 运算直接由逻辑门并行计算，无需额外时序。
 
 整个电路仅需：**1个4位加法器 + 1个4选1 MUX + 若干逻辑门**，结构简洁高效。
-### ![4位ALU电路图](4bit_ALU_circuit_diagram.svg)
+![4位ALU电路图](4bit_ALU_circuit_diagram.svg)
